@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/all_movies"
+            android:icon="@drawable/ic_menu_movie"
+            android:title="@string/all_movies"
+            android:checked="true"/>
+        <item
+            android:id="@+id/action_movies"
+            android:icon="@drawable/ic_menu_action"
+            android:title="@string/action_movies" />
+        <item
+            android:id="@+id/comedy_movies"
+            android:icon="@drawable/ic_menu_comedy"
+            android:title="@string/comedy_movies" />
+        <item
+            android:id="@+id/crime_movies"
+            android:icon="@drawable/ic_menu_crime"
+            android:title="@string/crime_movies" />
+        <item
+            android:id="@+id/horror_movies"
+            android:icon="@drawable/ic_menu_horror"
+            android:title="@string/horror_movies" />
+        <item
+            android:id="@+id/romance_movies"
+            android:icon="@drawable/ic_menu_romance"
+            android:title="@string/romance_movies" />
+
+    </group>
+
+</menu>

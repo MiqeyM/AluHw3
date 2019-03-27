@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Movies</string>
+    <string name="all_movies">All Movies</string>
+    <string name="action_movies">Action</string>
+    <string name="comedy_movies">Comedy</string>
+    <string name="crime_movies">Crime</string>
+    <string name="horror_movies">Horror</string>
+    <string name="romance_movies">Romance</string>
+</resources>
